@@ -1,0 +1,9 @@
+--------------------------- SETUP ---------------------------------
+Make sure to have Python3 installed.
+Run setup.bat file.
+Change username and password in booking.py
+
+--------------------------- HOW TO USE ----------------------------------
+1. When booking.py is started, you will choose your preferred time, date and court.
+2. It will book the following slot at exactly midnight 12:00am.
+3. Keep the script running until midnight 12:00pm for the booking to happen.
